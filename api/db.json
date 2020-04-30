@@ -9,6 +9,17 @@
       "title": "Other Stream",
       "description": "Here's some stream",
       "id": 2
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "You should not see this on the form page!!!",
+      "userId": "109724043240612887836",
+      "id": 5
+    },
+    {
+      "title": "Me streaming component reuse",
+      "description": "this stream is about refactoring",
+      "id": 6
     }
   ]
 }

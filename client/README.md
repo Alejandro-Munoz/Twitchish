@@ -1,3 +1,8 @@
+## To run this project:
+1. run app - npm start (port 3000)
+2. run api - server (npm start from api folder port 3001)
+3. run rtmp server (npm start from rtmp folder port 8000)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
